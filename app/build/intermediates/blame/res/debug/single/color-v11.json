@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dklug/Documents/HiBlue/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/dklug/.android/build-cache/95f1a03119dd4d8f28c972ad7c7c86d46cbda38f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/dklug/Documents/HiBlue/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/dklug/.android/build-cache/95f1a03119dd4d8f28c972ad7c7c86d46cbda38f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
